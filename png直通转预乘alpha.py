@@ -23,7 +23,7 @@ def premultiplyAlpha(img):
 args = sys.argv
 # 合并内容并生成新文件
 
-print("Creat by 夏夏夏科\nB站：https://space.bilibili.com/7002764\n")
+print("Creat by Satan-23333\nGithub：https://github.com/Satan-23333/PMA-Converter\n")
 
 try:
     png_path_list = args
